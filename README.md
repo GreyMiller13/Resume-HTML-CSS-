@@ -1,1 +1,3 @@
-# Resume-HTML-CSS-
+# Resume (HTML+CSS)
+
+Самостоятельно сделанный проект.
